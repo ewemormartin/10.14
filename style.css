@@ -25,6 +25,22 @@ article h1{
     color: white;
 }
 
+menu ul li{
+    list-style-type: none;
+}
+
+menu a{
+    color: white;
+}
+
+menu a:visited{
+    color: white;
+}
+
+menu a:active{
+    color: gray;
+}
+
 h2{
     font-family: 'Turret Road';
 }
