@@ -16,8 +16,13 @@ main{
     background-color: #37432d;
 }
 
-p{
-    font-family: 'Patrick Hands';
+article p{
+    font-family: 'Patrick Hand';
+    color: white;
+}
+
+article h1{
+    color: white;
 }
 
 h2{
