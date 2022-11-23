@@ -24,6 +24,10 @@ h2{
     font-family: 'Turret Road';
 }
 
+footer{
+    font-family: 'Shadow Into Light';
+}
+
 header{
     grid-area: h;
 }
