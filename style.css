@@ -33,6 +33,7 @@ header{
 }
 
 menu{
+    grid-area: m;
 }
 
 menu ul{
