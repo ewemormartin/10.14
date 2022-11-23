@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap'); /* FOOTER */
-@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap'); /* 'p' tags */
-@import url('https://fonts.googleapis.com/css2?family=Turret+Road&display=swap'); /* h2 tags */
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap'); /* FOOTER & LIST */
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap'); /* 'p' & h3 tags */
+@import url('https://fonts.googleapis.com/css2?family=Turret+Road&display=swap'); /* h2 &h1 tags */
 
 
 body{
@@ -23,10 +23,12 @@ article p{
 
 article h1{
     color: white;
+    font-family: 'Turret Road'
 }
 
 menu ul li{
     list-style-type: none;
+    font-family: 'Shadows Into Light';
 }
 
 menu a{
